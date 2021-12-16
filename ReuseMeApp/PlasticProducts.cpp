@@ -56,6 +56,7 @@ void PlasticProducts::print(int index)
 {
     string temp;
     ofstream outFile;
+  // *** CHANGE PATH ADDRESS TO THE ADDRESS LIST.TXT IS IN YOUR COMPUTER ***
     outFile.open("/Users/butters/ReuseMeApp/list.txt", ios::app);
 
     if (index == 0)
