@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/BagMedium.png</file>
+        <file>Images/BottleMedium.png</file>
+        <file>Images/Container Medium.png</file>
+        <file>Images/NapkinMedium.png</file>
+        <file>Images/PaperTowelMedium.png</file>
+        <file>Images/TshirtMedium.png</file>
+    </qresource>
+    <qresource prefix="/Text">
+        <file>Paper.txt</file>
+        <file>ReusableBags.txt</file>
+        <file>ReusableBottles.txt</file>
+        <file>ReusableFoodContainers.txt</file>
+    </qresource>
+</RCC>
