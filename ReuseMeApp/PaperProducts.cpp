@@ -52,6 +52,7 @@ void PaperProducts::print(int index)
 {
     string temp;
     ofstream outFile;
+    // ** CHANGE PATH ADDRESS TO THE ADDRESS WHERE LIST.TXT IS IN YOUR COMPUTER ***
     outFile.open("/Users/butters/ReuseMeApp/list.txt", ios::app);
 
     if (index == 0)
