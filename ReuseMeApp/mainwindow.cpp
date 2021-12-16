@@ -194,6 +194,7 @@ void MainWindow::on_pushButton_13_clicked()
     QMessageBox *message = new QMessageBox;
 
     //Creates a dynamic QFile object with the path to list.txt
+    // *** CHANGE PATH ADDRESS TO THE PATH ADDRESS OF LIST.TXT IN YOUR COMPUTER ***
     QFile *file = new QFile ("/Users/butters/ReuseMeApp/list.txt");
 
     //checks if file has been open tjhen proceeds to read the file
